@@ -1,16 +1,15 @@
-## Hi there 👋
+🦄 Hi, I'm [Your Pony Town Name]!
+💫 About Me
+Main Skins: [List names, fandoms, or OCs]
+Play Style: [Roleplay, chilling, building, etc.]
+Preferred Server: Safe Server / 18+ Server
 
-<!--
-**Svnnyzz/Svnnyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛑 Boundaries & Interact List
+Touch: DNT (Do Not Touch) / Ask First / Fine!
+Conversations: C+I (Comfortable and Interactive) / Hidden / Ask First
+Booping: Yes / No
+Whispering: Open / Closed
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 My Socials
+[<img src="https://shields.io">](YOUR_DISCORD_LINK)
+[<img src="https://shields.io">](YOUR_TIKTOK_LINK)
