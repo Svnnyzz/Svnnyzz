@@ -12,6 +12,8 @@
       𖤓 Booping: Yes
         ⚡︎ Whispering: Open 
 
-🔗 My Socials
-[<img src="https://shields.io">](YOUR_DISCORD_LINK)
-[<img src="https://shields.io">](YOUR_TIKTOK_LINK)
+☆⋆ My Socials !
+
+    Spotify - https://open.spotify.com/user/31ijrxrf3you7wncvimuzjjd6o5u?si=108a50cc5f5c4905
+    Steam - https://steamcommunity.com/profiles/76561199741498130/
+    
