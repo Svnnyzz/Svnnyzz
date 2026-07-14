@@ -1,14 +1,16 @@
-🦄 Hi, I'm [Your Pony Town Name]!
-💫 About Me
-Main Skins: [List names, fandoms, or OCs]
-Play Style: [Roleplay, chilling, building, etc.]
-Preferred Server: Safe Server / 18+ Server
+  ☆ Hello there. My name is Sunny ! •ᴗ•
+    
+    𖦹 About Me
+     ♡ Main Skins:  [UTMV , Eddsworld , Demon Slayer ]
+      ִ ࣪𖤐 Play Style: [Chilling , gift hunting , Creating skins ]
+        ❀ Preferred Server: 18+ Server
 
-🛑 Boundaries & Interact List
-Touch: DNT (Do Not Touch) / Ask First / Fine!
-Conversations: C+I (Comfortable and Interactive) / Hidden / Ask First
-Booping: Yes / No
-Whispering: Open / Closed
+✷ Boundaries & Interact List
+
+    𝄞 Touch: Fine!
+     ⟡ ݁ Conversations: Ask First! i get very nervous..so i might just leave, lol.
+      𖤓 Booping: Yes
+        ⚡︎ Whispering: Open 
 
 🔗 My Socials
 [<img src="https://shields.io">](YOUR_DISCORD_LINK)
