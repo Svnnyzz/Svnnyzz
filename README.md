@@ -14,6 +14,5 @@
 
 ☆⋆ My Socials !
 
-    Spotify - https://open.spotify.com/user/31ijrxrf3you7wncvimuzjjd6o5u?si=108a50cc5f5c4905
-    Steam - https://steamcommunity.com/profiles/76561199741498130/
-    
+[![Spotify](https://shields.io)](https://open.spotify.com/user/31ijrxrf3you7wncvimuzjjd6o5u?si=108a50cc5f5c4905)
+[![Steam](https://shields.io)]([YOUR_TIKTOK_URL](https://steamcommunity.com/profiles/76561199741498130/))
