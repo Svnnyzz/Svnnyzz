@@ -6,7 +6,6 @@
   <img src="https://blinkies.cafe/b/blinkiesCafe-tK.gif" width="180px" />
   <img src="https://blinkies.cafe/b/display/0038-exitbutton2.gif" width="180px" />
   <img src="https://blinkies.cafe/b/blinkiesCafe-3X.gif" width="180px" />
-  <img src="https://blinkies.cafe/b/blinkiesCafe-8D.gif" width="180px" />
   <img src="https://blinkies.cafe/b/display/0190-hittingfloor.gif" width="180px" />
   <img src="https://blinkies.cafe/b/blinkiesCafe-NL.gif" width="180px" />
   <img src="https://i.imgur.com/JHMZ6Us.gif" width="180px" />
