@@ -35,6 +35,7 @@
     <td><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc?si=7ed5268b6be94c59"><img src="https://i1.sndcdn.com/artworks-000420765615-1tt1c9-t500x500.jpg" width="100" height="100" /></a></td>
     <td><a href="https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF?si=6c60aa19e6424b3a"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVe1VPUzQR6GO6m7F2gKa95DTbs9xxrNvYb1jUwWQmXmRhys-aZp0QatI&s=10" width="100" height="100" /></a></td>
     <td><a href="https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP?si=d1cbb4d4138b491c"><img src="https://cdn-images.dzcdn.net/images/cover/8e2795e845a6d30112767b34e82461b4/500x500.jpg" width="100" height="100" /></a></td>
+  <td><a href="https://open.spotify.com/track/6d63eDaeAYBJvTcBkDifU1?si=7138cdd88b214476"><img src="https://s.mxmcdn.net/images-storage/albums/9/6/7/0/5/8/13850769_500_500.jpg" width="100" height="100" /></a></td>
   </tr>
 </table>
 
