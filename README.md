@@ -1,6 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Svnnyzz)
   
-  ☆ Hello there. My name is Sunny ! •ᴗ•
+  ☆ Hello there. My name is Sunny ! •ᴗ• I am offtab..99.99% of the time.
    <img src="https://64.media.tumblr.com/9c2ab966e38c71421ccf5eedec6f59f3/30f0d8e8a63a6e35-d6/s640x960/1c1e253ff58a9d96ccdba873d6fe72bedd4f7711.gifv" width="100%" />
    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://blinkies.cafe/b/display/0190-hittingfloor.gif" width="180px" />
